@@ -7,7 +7,7 @@ import Profile from './pages/profile';
 import NewIncident from './pages/NewIncident';
 
 
-
+//conct
 export default function Routes() {
     return (
         <BrowserRouter>

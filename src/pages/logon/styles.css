@@ -1,0 +1,68 @@
+.logon-container {
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+       
+
+} 
+
+.logon-container section form {
+    width: 100%;
+    max-width: 105%;
+   
+    padding-top: 20%;
+    
+
+    }
+
+    .logon-container section img {
+   
+    width: 100%;
+    max-width: 105%;
+    
+    
+    }
+   
+
+             
+    .logon-container section form h1 {
+        font-size: 170%;
+        margin-bottom: 32px;
+        
+    }
+    
+    .logon-container section.form form a {
+        display: flex;
+        align-items: center;
+        margin-top: 40px;
+        color: #41414d;
+        font-size: 18px;
+        text-decoration: nome;
+        font-weight: 500;
+        transition: opacity 0.2s;
+    }
+    .logon-container section.form form a svg{
+           margin-right: 8px;   
+    }
+    .logon-container section.form form a:hover {
+        opacity: 0.8;
+    }
+    
+    .logon-container section form input {
+        margin-top: 2%;
+        height: 45px;
+        font-size: 90%;
+        
+       }
+       .logon-container section {
+        padding: 7%;
+        margin-top: 10%;
+       
+        
+       }

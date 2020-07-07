@@ -37,6 +37,6 @@
     ]
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^3.6.0"
+    
   }
 }
